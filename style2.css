@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid rgb(8, 84, 59);
+    text-align: center;
+    background-color:rgb(210, 148, 104) ;
+}
+*{
+    background-color: azure;
+    color: rgb(8, 84, 59);
+    font-family: 'Times New Roman', Times, serif;
+}
+b{
+    color: black;
+}
+legend{
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+p{
+    text-align: center;
+}
